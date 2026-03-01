@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Taien Dachi",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -28,12 +28,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025 [Taien Dachi](https://taien.web.id)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Maniamolo <br/> Nias Selatan",
+    "email": "dachitaien@gmail.com",
+    "phone": "085213307191"
   }
 }
