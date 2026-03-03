@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Taien Dachi",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "https://taien.web.id",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
