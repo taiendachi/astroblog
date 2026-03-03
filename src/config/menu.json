@@ -13,30 +13,22 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Categories",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "AI",
+          "url": "/ai"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Teknologi",
+          "url": "/teknologi"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
+          "name": "Pendidikan",
+          "url": "/pendidikan"
         },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
       ]
     }
   ],
@@ -50,8 +42,8 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Disclaimer",
+      "url": "/disclaimer"
     },
     {
       "name": "Privacy Policy",
